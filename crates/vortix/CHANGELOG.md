@@ -4,6 +4,24 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [0.4.3] - 2026-07-01
+
+### Bug Fixes
+
+- Bind daemon socket inside Tokio runtime ([#233](https://github.com/Harry-kp/vortix/pull/233))
+
+### Documentation
+
+- **readme:** Install matrix, named competitors, security model, contributing ([#230](https://github.com/Harry-kp/vortix/pull/230))
+- Refresh demo GIFs + README cleanup ([#236](https://github.com/Harry-kp/vortix/pull/236))
+- **readme:** Add X/Twitter handle badge ([#244](https://github.com/Harry-kp/vortix/pull/244))
+
+### Refactor
+
+- **flip-panel:** Consume extracted ratatui-flip-panel crate ([#232](https://github.com/Harry-kp/vortix/pull/232))
+
+
+
 ## [0.4.2] - 2026-06-16
 
 ### Highlights
